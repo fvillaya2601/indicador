@@ -1,0 +1,2 @@
+# indicador
+Cálculo indicador económico
